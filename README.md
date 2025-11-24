@@ -1,2 +1,3 @@
-# Clash-Royale-Analysis
-Data Science Fundamentals Individual project
+# Predicting Clash Royale Wins Through Deck Composition
+This project analyzes how Clash Royale deck structure influences match outcomes using a historical card-level dataset from Kaggle. Even though the dataset reflects an older version of the game, the underlying mechanics—elixir management, card synergy, and troop/spell interactions—still allow for meaningful exploratory analysis and predictive modeling.
+The goal is to understand why certain decks succeed and to build a logistic regression model that can estimate the likelihood of winning based on deck features such as average elixir cost, card types, and aggregate card statistics.
